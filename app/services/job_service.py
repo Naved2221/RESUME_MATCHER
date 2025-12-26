@@ -5,8 +5,8 @@ def process_job_description(description: str) -> dict:
     cleaned = clean_text(description)
 
     return {
+        "cleaned_text": cleaned,
         "original_length": len(description),
         "cleaned_length": len(cleaned),
         "cleaned_preview": cleaned[:300]
     }
-
