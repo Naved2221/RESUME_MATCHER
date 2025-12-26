@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# ML model caches
+.cache/
+models/
+sentence_transformers/
+
+# OS
+.DS_Store
+

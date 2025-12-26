@@ -1,0 +1,26 @@
+SKILLS = [
+    "python",
+    "java",
+    "sql",
+    "postgresql",
+    "mysql",
+    "fastapi",
+    "django",
+    "flask",
+    "docker",
+    "kubernetes",
+    "linux",
+    "git",
+    "machine learning",
+    "deep learning",
+    "nlp",
+    "pandas",
+    "numpy",
+    "scikit learn",
+    "tensorflow",
+    "pytorch",
+    "aws",
+    "azure",
+    "gcp"
+]
+
